@@ -1,32 +1,224 @@
-<h1 align="center">Hi 👋, I'm Adarsh kumar</h1>
-<h3 align="center">Full-Stack MERN Developer | Python Developer | DevOps & AWS | Data Science & Machine Learning Enthusiast | C++ & JavaScript</h3>
+# 👋 Hi, I'm Adarsh Kumar
 
-- 🔭 I’m currently working on **Blood Cell Detection using YOLO, OpenCV & Flask**
+<h3 align="center">Full-Stack MERN Developer | Python Developer | DevOps & AWS | Data Science & Machine Learning Enthusiast</h3>
 
-- 🌱 I’m currently learning **AWS, DevOps, Docker, Kubernetes, Python & Machine Learning**
-
-- 👯 I’m looking to collaborate on **MERN Stack, Python, AI/ML & Open-Source Projects**
-
-- 🤝 I’m looking for help with **AWS Cloud, DevOps, Docker & CI/CD Pipelines**
-
-- 👨‍💻 All of my projects are available at [https://github.com/adarshkumar188/adarshkumar188](https://github.com/adarshkumar188/adarshkumar188)
-
-- 💬 Ask me about **MERN Stack, React, Node.js, Express.js, MongoDB, Python, C++ & JavaScript**
-
-- 📫 How to reach me **galaxyadarsh53@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/adarsh__darsh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="adarsh__darsh" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/adarsh-kumar-685a11281/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/adarsh-kumar-685a11281/" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/adarsh.darsh.2025" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/adarsh.darsh.2025" height="30" width="40" /></a>
-<a href="https://instagram.com/adarshpoddar_18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="adarshpoddar_18" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/https://www.codechef.com/users/adarshnims53" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="https://www.codechef.com/users/adarshnims53" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/adarshkumar188" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/adarshkumar188" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/https://codeforces.com/profile/adarshkumar18" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="https://codeforces.com/profile/adarshkumar18" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/adarsh195kumar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/adarsh195kumar/" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/https://www.geeksforgeeks.org/profile/galaxyad0lrp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://www.geeksforgeeks.org/profile/galaxyad0lrp" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/adarshkumar188">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Full-Stack+MERN+Developer;Python+%7C+C%2B%2B+%7C+JavaScript;Exploring+AWS+%26+DevOps;Building+AI%2FML+Projects;Always+Learning+and+Building!" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.framer.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/framer/framer-icon.svg" alt="framer" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://hadoop.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hadoop/apache_hadoop-icon.svg" alt="hadoop" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://zapier.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40"/> </a> </p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=adarshkumar188&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/adarshkumar188?label=Followers&style=social" alt="GitHub followers" />
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🔭 Currently working on **Blood Cell Detection using YOLO, OpenCV & Flask**
+- 🌱 Learning **AWS, DevOps, Docker, Kubernetes, Python & Machine Learning**
+- 👯 Looking to collaborate on **MERN Stack, Python, AI/ML & Open-Source Projects**
+- 🤝 Exploring **Cloud Computing, CI/CD Pipelines & Deployment Automation**
+- 💬 Ask me about **React, Node.js, Express.js, MongoDB, Python, C++ & JavaScript**
+- 📫 Reach me at **[galaxyadarsh53@gmail.com](mailto:galaxyadarsh53@gmail.com)**
+- 👨‍💻 Explore my work: **[GitHub Repositories](https://github.com/adarshkumar188?tab=repositories)**
+- ⚡ My goal: **Build practical projects and grow into a well-rounded software engineer.**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/adarsh-kumar-685a11281/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
+  </a>
+  <a href="https://twitter.com/adarsh__darsh" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-Follow-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.instagram.com/adarshpoddar_18/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="mailto:galaxyadarsh53@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</p>
+
+**Coding Profiles**
+
+<p align="left">
+  <a href="https://leetcode.com/u/adarsh195kumar/">
+    <img src="https://img.shields.io/badge/LeetCode-Practice-orange?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
+  <a href="https://www.hackerrank.com/profile/adarshkumar188">
+    <img src="https://img.shields.io/badge/HackerRank-Practice-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" />
+  </a>
+  <a href="https://codeforces.com/profile/adarshkumar18">
+    <img src="https://img.shields.io/badge/Codeforces-Profile-445f9d?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" />
+  </a>
+  <a href="https://www.codechef.com/users/adarshnims53">
+    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/profile/galaxyad0lrp">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" />
+  </a>
+</p>
+
+---
+
+## 🛠️ Languages and Technologies
+
+### 💻 Programming Languages
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" alt="Programming languages" />
+</p>
+
+### 🌐 Full-Stack Development
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase" alt="Full-stack technologies" />
+</p>
+
+### ☁️ Cloud, DevOps & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,githubactions,vscode" alt="Cloud and DevOps technologies" />
+</p>
+
+### 🤖 Data Science, AI & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,sklearn" alt="AI and machine learning technologies" />
+</p>
+
+### 🎨 Design & Other Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=figma,postman,androidstudio" alt="Design and development tools" />
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adarshkumar188&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub statistics" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumar188&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=adarshkumar188&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+</p>
+
+---
+
+## 📈 Contribution Activity Graph
+
+<p align="center">
+  <a href="https://github.com/adarshkumar188">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshkumar188&theme=tokyo-night&hide_border=true&area=true" alt="GitHub contribution activity graph" width="100%" />
+  </a>
+</p>
+
+---
+
+## 🗓️ Contribution Calendar
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/adarshkumar188" alt="GitHub contribution calendar" width="100%" />
+</p>
+
+---
+
+## 📌 Featured Projects
+
+Here are some of the projects I work on or have explored. Visit my repositories for source code and project details.
+
+<table>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🩸 Blood Cell Detection</h3>
+      <p align="center">
+        A computer vision project for detecting and classifying blood cells using YOLO, OpenCV and Flask.
+      </p>
+      <p align="center">
+        <strong>Python · YOLO · OpenCV · Flask</strong>
+      </p>
+      <p align="center">
+        <a href="https://github.com/adarshkumar188?tab=repositories">Explore Repositories</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🐍 Hand Gesture Snake Game</h3>
+      <p align="center">
+        A computer vision game controlled using hand gestures and real-time webcam tracking.
+      </p>
+      <p align="center">
+        <strong>Python · OpenCV · cvzone</strong>
+      </p>
+      <p align="center">
+        <a href="https://github.com/adarshkumar188?tab=repositories">Explore Repositories</a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">🧮 Scientific Calculator</h3>
+      <p align="center">
+        An Android calculator project with scientific functions and a modern user interface.
+      </p>
+      <p align="center">
+        <strong>Kotlin · Android Studio · XML</strong>
+      </p>
+      <p align="center">
+        <a href="https://github.com/adarshkumar188?tab=repositories">Explore Repositories</a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">🌐 MERN Stack Applications</h3>
+      <p align="center">
+        Full-stack web applications exploring responsive interfaces, APIs, backend services and databases.
+      </p>
+      <p align="center">
+        <strong>MongoDB · Express · React · Node.js</strong>
+      </p>
+      <p align="center">
+        <a href="https://github.com/adarshkumar188?tab=repositories">Explore Repositories</a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adarshkumar188&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" width="100%" />
+</p>
+
+---
+
+## 💡 Current Focus
+
+- Building useful full-stack web applications.
+- Improving Python, data structures and algorithms.
+- Learning AWS services and cloud deployment.
+- Exploring Docker, Kubernetes and CI/CD workflows.
+- Applying computer vision and machine learning to practical problems.
+
+---
+
+<p align="center">
+  <b>“Consistency beats intensity. Keep building, keep learning, keep improving.”</b>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects interesting, explore my repositories and connect with me!
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=100&section=footer" alt="Decorative footer" width="100%" />
+</p>
