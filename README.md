@@ -1,195 +1,157 @@
-<!-- ============ HEADER ============ -->
-<h1 align="center">👋 Hi, I'm Adarsh Kumar</h1>
-
-<h3 align="center">Full-Stack MERN Developer | Python Developer | DevOps & AWS | Data Science & ML Enthusiast | C++ & JavaScript</h3>
+<h1 align="center">Hi, I'm Adarsh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full-Stack+MERN+Developer;Python+%7C+C%2B%2B+%7C+JavaScript;Exploring+AWS+%26+DevOps;Building+AI%2FML+Projects;Always+Learning+and+Building!" alt="Animated text: Full-Stack MERN Developer, Python, C++, JavaScript, AWS and DevOps, AI/ML projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+stack+developer;Python+%7C+C%2B%2B+%7C+JavaScript;Learning+AWS+%26+DevOps;Building+small+AI%2FML+projects" alt="Animated text: MERN stack developer, Python, C++, JavaScript, learning AWS and DevOps, building AI/ML projects" />
 </p>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=adarshkumar188&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views counter" />
   <img src="https://img.shields.io/github/followers/adarshkumar188?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2Fadarshkumar188&query=%24.public_repos&label=Public%20Repos&color=36BCF7&style=flat" alt="Number of public repositories" />
 </p>
 
 <p align="center">
-  <a href="https://drive.google.com/file/d/1c91Tod1_fvqSGe7tduU75ZkMUAyVO-Xt/view?usp=sharing">
-    <img src="https://img.shields.io/badge/View_My_Resume-PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View my resume on Google Drive" />
+  <a href="https://drive.google.com/file/d/1hjK4CM5qY6_yYmXM7tvzAB_Ay2d9qFon/view?usp=sharing">
+    <img src="https://img.shields.io/badge/My_Resume-PDF-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="View my resume on Google Drive" />
   </a>
 </p>
 
 ---
 
-🚀 About Me
+## About me
 
-- 🔭 Currently working on **Blood Cell Detection using YOLO, OpenCV & Flask**
-- 🌱 Currently learning **AWS, DevOps, Docker, Kubernetes, Python & Machine Learning**
-- 👯 Looking to collaborate on **MERN Stack, Python, AI/ML & open-source projects**
-- 🤝 Exploring **AWS cloud, CI/CD pipelines & deployment automation**
-- 💬 Ask me about **React, Node.js, Express.js, MongoDB, Python, C++ & JavaScript**
-- 📫 Email: **[galaxyadarsh53@gmail.com](mailto:galaxyadarsh53@gmail.com)**
-- 📄 Resume: **[View Resume](https://drive.google.com/file/d/1c91Tod1_fvqSGe7tduU75ZkMUAyVO-Xt/view?usp=sharing)**
-- ⚡ Goal: build practical projects and grow as a software engineer
+I mostly build web apps with the MERN stack, and I use Python and C++ for problem solving and computer vision experiments. Right now I'm working on a blood cell detection project (YOLO, OpenCV and Flask), and I'm slowly getting comfortable with AWS, Docker and Kubernetes.
+
+- Ask me about React, Node.js, Express, MongoDB, Python, C++ or JavaScript
+- Happy to collaborate on MERN, Python, AI/ML or open-source projects
+- Email: [galaxyadarsh53@gmail.com](mailto:galaxyadarsh53@gmail.com)
+- Resume: [view it here](https://drive.google.com/file/d/1hjK4CM5qY6_yYmXM7tvzAB_Ay2d9qFon/view?usp=sharing)
 
 ---
 
-🌐 Connect With Me
+## Find me online
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/adarsh-kumar-685a11281/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" />
+  <a href="https://www.linkedin.com/in/adarsh-kumar-685a11281/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/adarsh__darsh" target="_blank">
-    <img src="https://img.shields.io/badge/X_(Twitter)-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="Follow on X (Twitter)" />
+  <a href="https://twitter.com/adarsh__darsh">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X (Twitter)" />
   </a>
-  <a href="https://www.instagram.com/adarshpoddar_18/" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Follow on Instagram" />
+  <a href="https://www.instagram.com/adarshpoddar_18/">
+    <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:galaxyadarsh53@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Send me an email" />
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
-### 👨‍💻 Coding Profiles
+I also practice problem solving here:
 
 <p align="left">
-  <a href="https://leetcode.com/u/adarsh195kumar/">
-    <img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode profile" />
-  </a>
-  <a href="https://www.hackerrank.com/profile/adarshkumar188">
-    <img src="https://img.shields.io/badge/HackerRank-Profile-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank profile" />
-  </a>
-  <a href="https://codeforces.com/profile/adarshkumar18">
-    <img src="https://img.shields.io/badge/Codeforces-Profile-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces profile" />
-  </a>
-  <a href="https://www.codechef.com/users/adarshnims53">
-    <img src="https://img.shields.io/badge/CodeChef-Profile-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef profile" />
-  </a>
-  <a href="https://www.geeksforgeeks.org/profile/galaxyad0lrp">
-    <img src="https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks profile" />
-  </a>
+  <a href="https://leetcode.com/u/adarsh195kumar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode" /></a>
+  <a href="https://www.hackerrank.com/profile/adarshkumar188"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=flat-square&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
+  <a href="https://codeforces.com/profile/adarshkumar18"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
+  <a href="https://www.codechef.com/users/adarshnims53"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=flat-square&logo=codechef&logoColor=white" alt="CodeChef" /></a>
+  <a href="https://www.geeksforgeeks.org/profile/galaxyad0lrp"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=flat-square&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 
 ---
 
-🛠️ Languages and Technologies
+## What I work with
 
-💻 Programming Languages
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" alt="C++, Python, JavaScript, HTML, CSS" />
-</p>
+**Languages**
 
-🌐 Full-Stack Development
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase" alt="React, Node.js, Express, MongoDB, MySQL, Firebase" />
-</p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,html,css" alt="C++, Python, JavaScript, HTML, CSS" />
 
-☁️ Cloud & DevOps <sub>(learning & exploring)</sub>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,githubactions" alt="AWS, Docker, Kubernetes, Linux, Git, GitHub, GitHub Actions" />
-</p>
+**Web development**
 
-🤖 Data Science, AI & Machine Learning
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,sklearn" alt="Python, OpenCV, PyTorch, TensorFlow, Scikit-learn" />
-</p>
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,mysql,firebase" alt="React, Node.js, Express, MongoDB, MySQL, Firebase" />
 
-🎨 Development Tools
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,androidstudio,figma" alt="VS Code, Postman, Android Studio, Figma" />
-</p>
+**Cloud and DevOps** (still learning)
+
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,linux,git,github,githubactions" alt="AWS, Docker, Kubernetes, Linux, Git, GitHub, GitHub Actions" />
+
+**ML and computer vision**
+
+<img src="https://skillicons.dev/icons?i=python,opencv,pytorch,tensorflow,sklearn" alt="Python, OpenCV, PyTorch, TensorFlow, Scikit-learn" />
+
+**Tools**
+
+<img src="https://skillicons.dev/icons?i=vscode,postman,androidstudio,figma" alt="VS Code, Postman, Android Studio, Figma" />
 
 ---
 
-📊 GitHub Analytics
+## Projects
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adarshkumar188&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats: stars, commits, pull requests, issues" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumar188&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used programming languages" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=adarshkumar188&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-</p>
-
-<p align="center">
-  <a href="https://github.com/adarshkumar188">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshkumar188&theme=tokyo-night&hide_border=true&area=true" alt="Contribution and commit activity graph" width="100%" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/adarshkumar188" alt="GitHub contribution calendar" width="100%" />
-</p>
-
-### 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=adarshkumar188&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub profile trophies" width="100%" />
-</p>
-
----
-
-## 📌 Featured Projects
-
-<!-- TODO: replace each "Explore Repositories" link with the exact repo URL, e.g. https://github.com/adarshkumar188/<repo-name> -->
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🩸 Blood Cell Detection</h3>
-      <p align="center">Computer vision project for detecting and classifying blood cells using YOLO, OpenCV and Flask.</p>
-      <p align="center"><strong>Python · YOLO · OpenCV · Flask</strong></p>
-      <p align="center"><a href="https://github.com/adarshkumar188?tab=repositories">Explore Repositories</a></p>
+      <h3>Blood Cell Detection</h3>
+      <p>Detects and classifies blood cells in images using YOLO, with a small Flask app on top.</p>
+      <p><sub>Python, YOLO, OpenCV, Flask</sub></p>
+      <p><a href="https://github.com/adarshkumar188?tab=repositories">See repositories</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🐍 Hand Gesture Snake Game</h3>
-      <p align="center">A game controlled with hand gestures through real-time webcam tracking.</p>
-      <p align="center"><strong>Python · OpenCV · cvzone</strong></p>
-      <p align="center"><a href="https://github.com/adarshkumar188?tab=repositories">Explore Repositories</a></p>
+      <h3>Hand Gesture Snake Game</h3>
+      <p>The classic snake game, controlled by moving your hand in front of the webcam.</p>
+      <p><sub>Python, OpenCV, cvzone</sub></p>
+      <p><a href="https://github.com/adarshkumar188?tab=repositories">See repositories</a></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧮 Scientific Calculator</h3>
-      <p align="center">An Android calculator with scientific functions and a modern interface.</p>
-      <p align="center"><strong>Kotlin · Android Studio · XML</strong></p>
-      <p align="center"><a href="https://github.com/adarshkumar188?tab=repositories">Explore Repositories</a></p>
+      <h3>Scientific Calculator</h3>
+      <p>An Android calculator with scientific functions.</p>
+      <p><sub>Kotlin, Android Studio, XML</sub></p>
+      <p><a href="https://github.com/adarshkumar188?tab=repositories">See repositories</a></p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🌐 MERN Stack Applications</h3>
-      <p align="center">Full-stack web apps with responsive interfaces, REST APIs and databases.</p>
-      <p align="center"><strong>MongoDB · Express · React · Node.js</strong></p>
-      <p align="center"><a href="https://github.com/adarshkumar188?tab=repositories">Explore Repositories</a></p>
+      <h3>MERN Stack Apps</h3>
+      <p>Full-stack web apps with a React front end, REST APIs and MongoDB.</p>
+      <p><sub>MongoDB, Express, React, Node.js</sub></p>
+      <p><a href="https://github.com/adarshkumar188?tab=repositories">See repositories</a></p>
     </td>
   </tr>
 </table>
 
-<p align="center">
-  <a href="https://github.com/adarshkumar188?tab=repositories">
-    <img src="https://img.shields.io/badge/Explore-All_My_Projects-36BCF7?style=for-the-badge&logo=github&logoColor=white" alt="Explore all my GitHub projects" />
-  </a>
-</p>
-
----
- 🎯 Current Focus
-
-- 🚀 Building practical full-stack web applications
-- 🧠 Improving Python, data structures and algorithms
-- ☁️ Learning AWS services and cloud deployment
-- 🐳 Exploring Docker, Kubernetes and CI/CD workflows
-- 🤖 Applying computer vision and machine learning to real-world problems
-- 🤝 Contributing to open-source projects
+<!-- TODO: replace the links above with the exact repo URLs, e.g. https://github.com/adarshkumar188/<repo-name> -->
 
 ---
 
-💬 Let's Build Something Together!
-
-I'm always interested in learning, collaborating and building useful software. Explore my repositories, or reach out on [LinkedIn](https://www.linkedin.com/in/adarsh-kumar-685a11281/) or by [email](mailto:galaxyadarsh53@gmail.com).
+## GitHub activity
 
 <p align="center">
-  <b>“Consistency beats intensity. Keep building, keep learning, keep improving.”</b>
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=adarshkumar188&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=adarshkumar188&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Most used languages" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=100&section=footer" alt="Decorative gradient footer" width="100%" />
+  <img src="https://streak-stats.demolab.com?user=adarshkumar188&theme=tokyonight&hide_border=true" alt="Contribution streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=adarshkumar188&theme=tokyo-night&hide_border=true&area=true" alt="Contribution activity graph" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/409ba5/adarshkumar188" alt="Contribution calendar" width="100%" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=adarshkumar188&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" width="100%" />
+</p>
+
+---
+
+## What I'm focusing on
+
+- Building more full-stack projects, and finishing them
+- Getting better at Python and DSA
+- Learning AWS, Docker and Kubernetes properly
+- Using computer vision and ML on real problems
+
+If something here looks interesting, feel free to open an issue or message me. I'm always up for working on something together.
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=100&section=footer" alt="" width="100%" />
 </p>
