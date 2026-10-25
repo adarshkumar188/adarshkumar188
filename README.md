@@ -129,14 +129,6 @@ I also practice problem solving here:
   <img src="https://streak-stats.demolab.com?user=adarshkumar188&theme=tokyonight&hide_border=true" alt="Contribution streak" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshkumar188/adarshkumar188/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshkumar188/adarshkumar188/output/github-snake.svg" />
-    <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/adarshkumar188/adarshkumar188/output/github-snake.svg" width="100%" />
-  </picture>
-</p>
-
 ---
 
 ## What I'm focusing on
