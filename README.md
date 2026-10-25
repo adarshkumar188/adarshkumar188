@@ -134,7 +134,11 @@ I also practice problem solving here:
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/409ba5/adarshkumar188" alt="Contribution calendar" width="100%" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/adarshkumar188/adarshkumar188/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/adarshkumar188/adarshkumar188/output/github-snake.svg" />
+    <img alt="Snake animation eating my GitHub contributions" src="https://raw.githubusercontent.com/adarshkumar188/adarshkumar188/output/github-snake.svg" width="100%" />
+  </picture>
 </p>
 
 <p align="center">
