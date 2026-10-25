@@ -159,3 +159,54 @@ If something here looks interesting, feel free to open an issue or message me. I
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=100&section=footer" alt="" width="100%" />
 </p>
+
+<!--
+=====================================================================
+SNAKE ANIMATION SETUP (this comment is invisible on your profile)
+
+GitHub cannot generate the snake from inside README.md itself. It needs
+a workflow file. Create a file at .github/workflows/snake.yml in this
+repo, paste everything between the START and END lines below, then:
+  1. Settings > Actions > General > Workflow permissions >
+     "Read and write permissions"
+  2. Actions tab > "Generate Snake Animation" > Run workflow
+  3. Refresh your profile once the "output" branch exists
+After that you can delete this whole comment if you like.
+
+------------------------ START snake.yml ------------------------
+name: Generate Snake Animation
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - name: Generate snake SVGs
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/github-snake.svg?color_snake=purple
+            dist/github-snake-dark.svg?palette=github-dark&color_snake=purple
+
+      - name: Push to output branch
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+------------------------- END snake.yml -------------------------
+=====================================================================
+-->
