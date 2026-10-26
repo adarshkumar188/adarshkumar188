@@ -30,6 +30,8 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
 
 ## Find me online
 
+## Find me online
+
 <p align="left">
   <a href="https://www.linkedin.com/in/adarsh-kumar-685a11281/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -39,6 +41,9 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
   </a>
   <a href="https://www.instagram.com/adarshpoddar_18/">
     <img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.youtube.com/@adarshkumar18-z7x">
+    <img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
   <a href="mailto:galaxyadarsh53@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
