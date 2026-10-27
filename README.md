@@ -33,7 +33,7 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
   </a>
   &nbsp;
   <a href="https://x.com/adarsh__darsh">
-  <img src="assets/x-logo.svg" width="56" height="56" alt="X" />
+    <img src="assets/x-logo.svg" width="56" height="56" alt="X" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/adarshpoddar_18/">
