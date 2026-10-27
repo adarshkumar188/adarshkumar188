@@ -34,23 +34,23 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adarsh-kumar-685a11281/">
-    <img src="https://img.icons8.com/color/96/linkedin.png" width="56" height="56" alt="LinkedIn" />
+    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="56" height="56" alt="LinkedIn" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://twitter.com/adarsh__darsh">
-    <img src="https://img.icons8.com/color/96/twitter--v1.png" width="56" height="56" alt="X (Twitter)" />
+    <img src="https://img.icons8.com/fluency/96/twitterx.png" width="56" height="56" alt="X" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/adarshpoddar_18/">
-    <img src="https://img.icons8.com/color/96/instagram-new--v1.png" width="56" height="56" alt="Instagram" />
+    <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="56" height="56" alt="Instagram" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@adarshkumar18-z7x">
-    <img src="https://img.icons8.com/color/96/youtube-play.png" width="56" height="56" alt="YouTube" />
+    <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="56" height="56" alt="YouTube" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:galaxyadarsh53@gmail.com">
-    <img src="https://img.icons8.com/color/96/gmail-new.png" width="56" height="56" alt="Email" />
+    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="56" height="56" alt="Email" />
   </a>
 </p>
 ---
