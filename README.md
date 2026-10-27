@@ -53,7 +53,6 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
     <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="56" height="56" alt="Email" />
   </a>
 </p>
----
 
 ## What I work with
 
