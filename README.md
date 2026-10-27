@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="assets/banner.svg" width="100%" alt="Hi, I'm Adarsh - MERN Developer, Python, AI/ML Explorer" />
-</p>
+<h1 align="center">Hi, I'm Adarsh 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&height=40&lines=MERN+stack+developer;Python+%7C+C%2B%2B+%7C+JavaScript;Learning+AWS+%26+DevOps;Building+small+AI%2FML+projects" alt="Animated text: MERN stack developer, Python, C++, JavaScript, learning AWS and DevOps, building AI/ML projects" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+stack+developer;Python+%7C+C%2B%2B+%7C+JavaScript;Learning+AWS+%26+DevOps;Building+small+AI%2FML+projects" alt="Animated text: MERN stack developer, Python, C++, JavaScript, learning AWS and DevOps, building AI/ML projects" />
 </p>
 
 <p align="center">
@@ -50,8 +48,7 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
     <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="56" height="56" alt="Email" />
   </a>
 </p>
-
-## What I work with
+#What I work with
 
 **Languages**
 
