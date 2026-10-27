@@ -33,7 +33,11 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
   </a>
   &nbsp;
   <a href="https://x.com/adarsh__darsh">
-    <img src="https://cdn.simpleicons.org/x/000000" width="56" height="56" alt="X" />
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/x/FFFFFF" />
+      <source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/x/000000" />
+      <img src="https://cdn.simpleicons.org/x/000000" width="56" height="56" alt="X" />
+    </picture>
   </a>
   &nbsp;
   <a href="https://www.instagram.com/adarshpoddar_18/">
@@ -48,6 +52,7 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
     <img src="https://skillicons.dev/icons?i=gmail" width="56" height="56" alt="Email" />
   </a>
 </p>
+
 ## What I work with
 
 **Languages**
