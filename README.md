@@ -34,34 +34,24 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adarsh-kumar-685a11281/">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="56" height="56" alt="LinkedIn" />
+    <img src="https://img.icons8.com/color/96/linkedin.png" width="56" height="56" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://twitter.com/adarsh__darsh">
-    <img src="https://skillicons.dev/icons?i=twitter" width="56" height="56" alt="X (Twitter)" />
+    <img src="https://img.icons8.com/color/96/twitter--v1.png" width="56" height="56" alt="X (Twitter)" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/adarshpoddar_18/">
-    <img src="https://skillicons.dev/icons?i=instagram" width="56" height="56" alt="Instagram" />
+    <img src="https://img.icons8.com/color/96/instagram-new--v1.png" width="56" height="56" alt="Instagram" />
   </a>
   &nbsp;
   <a href="https://www.youtube.com/@adarshkumar18-z7x">
-    <img src="https://skillicons.dev/icons?i=youtube" width="56" height="56" alt="YouTube" />
+    <img src="https://img.icons8.com/color/96/youtube-play.png" width="56" height="56" alt="YouTube" />
   </a>
   &nbsp;
   <a href="mailto:galaxyadarsh53@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" width="56" height="56" alt="Email" />
+    <img src="https://img.icons8.com/color/96/gmail-new.png" width="56" height="56" alt="Email" />
   </a>
-</p>
-
-I also practice problem solving here:
-
-<p align="left">
-  <a href="https://leetcode.com/u/adarsh195kumar/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" /></a>
-  <a href="https://www.hackerrank.com/profile/adarshkumar188"><img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" /></a>
-  <a href="https://codeforces.com/profile/adarshkumar18"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" alt="Codeforces" /></a>
-  <a href="https://www.codechef.com/users/adarshnims53"><img src="https://img.shields.io/badge/CodeChef-5B4638?style=for-the-badge&logo=codechef&logoColor=white" alt="CodeChef" /></a>
-  <a href="https://www.geeksforgeeks.org/profile/galaxyad0lrp"><img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks" /></a>
 </p>
 ---
 
