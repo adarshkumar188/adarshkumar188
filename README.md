@@ -30,23 +30,25 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
 
 ## Find me online
 
-## Connect with me
-
 <p align="left">
   <a href="https://www.linkedin.com/in/adarsh-kumar-685a11281/">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="assets/social/linkedin.svg" width="56" height="56" alt="LinkedIn" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://x.com/adarsh__darsh">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
+    <img src="assets/social/x.svg" width="56" height="56" alt="X" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.instagram.com/adarshpoddar_18/">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="assets/social/instagram.svg" width="56" height="56" alt="Instagram" />
   </a>
+  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@adarshkumar18-z7x">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
+    <img src="assets/social/youtube.svg" width="56" height="56" alt="YouTube" />
   </a>
+  &nbsp;&nbsp;
   <a href="mailto:galaxyadarsh53@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="assets/social/gmail.svg" width="56" height="56" alt="Email" />
   </a>
 </p>
 ---
