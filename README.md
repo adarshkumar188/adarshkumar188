@@ -26,18 +26,14 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
 - Email: [galaxyadarsh53@gmail.com](mailto:galaxyadarsh53@gmail.com)
 - Resume: [view it here](https://drive.google.com/file/d/1hjK4CM5qY6_yYmXM7tvzAB_Ay2d9qFon/view?usp=sharing)
 
----
-
 ## Find me online
-## Find me online
-
 <p align="left">
   <a href="https://www.linkedin.com/in/adarsh-kumar-685a11281/">
     <img src="https://skillicons.dev/icons?i=linkedin" width="56" height="56" alt="LinkedIn" />
   </a>
   &nbsp;
   <a href="https://x.com/adarsh__darsh">
-    <img src="https://cdn.simpleicons.org/x/000000" width="56" height="56" alt="X" />
+  <img src="assets/x-logo.svg" width="56" height="56" alt="X" />
   </a>
   &nbsp;
   <a href="https://www.instagram.com/adarshpoddar_18/">
