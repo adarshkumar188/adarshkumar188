@@ -34,7 +34,8 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
 
 <p align="left">
   <a href="https://www.linkedin.com/in/adarsh-kumar-685a11281/">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="56" height="56" alt="LinkedIn" />
+    <img src="<img width="192" height="192" alt="image" src="https://github.com/user-attachments/assets/895e1783-99e6-4d29-813d-84bfc89c06bc" />
+" width="56" height="56" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
   <a href="https://twitter.com/adarsh__darsh">
