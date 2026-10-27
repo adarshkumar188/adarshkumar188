@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:6C63FF&height=260&section=header&text=Hi,%20I'm%20Adarsh&fontSize=64&fontColor=ffffff&fontAlign=50&fontAlignY=38&animation=twinkling&desc=MERN%20Developer%20%7C%20Python%20%7C%20AI%2FML%20Explorer&descAlign=50&descAlignY=60&descSize=22" width="100%" alt="Adarsh banner" />
+  <img src="assets/banner.svg" width="100%" alt="Hi, I'm Adarsh - MERN Developer, Python, AI/ML Explorer" />
 </p>
 
 <p align="center">
