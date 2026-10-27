@@ -31,23 +31,19 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
 ## Find me online
 <p align="left">
   <a href="https://www.linkedin.com/in/adarsh-kumar-685a11281/">
-    <img src="https://img.icons8.com/fluency/96/linkedin.png" width="56" height="56" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;&nbsp;
-  <a href="https://twitter.com/adarsh__darsh">
-    <img src="https://img.icons8.com/fluency/96/twitterx.png" width="56" height="56" alt="X" />
+  <a href="https://x.com/adarsh__darsh">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.instagram.com/adarshpoddar_18/">
-    <img src="https://img.icons8.com/fluency/96/instagram-new.png" width="56" height="56" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  &nbsp;&nbsp;
   <a href="https://www.youtube.com/@adarshkumar18-z7x">
-    <img src="https://img.icons8.com/fluency/96/youtube-play.png" width="56" height="56" alt="YouTube" />
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:galaxyadarsh53@gmail.com">
-    <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="56" height="56" alt="Email" />
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 ## What I work with
