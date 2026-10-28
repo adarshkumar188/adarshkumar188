@@ -1,7 +1,9 @@
-<h1 align="center">Hi, I'm Adarsh 👋</h1>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=260&section=header&text=Adarsh%20Kumar&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cloud%20Learner&descSize=20&descAlignY=58" width="100%" alt="Adarsh Kumar - MERN Stack Developer" />
+</p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+stack+developer;Python+%7C+C%2B%2B+%7C+JavaScript;Learning+AWS+%26+DevOps;Building+small+AI%2FML+projects" alt="Animated text: MERN stack developer, Python, C++, JavaScript, learning AWS and DevOps, building AI/ML projects" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=MERN+stack+developer;Python+%7C+C%2B%2B+%7C+JavaScript;Learning+AWS+%26+DevOps;Building+small+AI%2FML+projects" alt="Typing animation: MERN stack developer, Python, C++, JavaScript, learning AWS and DevOps" />
 </p>
 
 <p align="center">
@@ -48,7 +50,8 @@ I mostly build web apps with the MERN stack, and I use Python and C++ for proble
     <img src="https://img.icons8.com/fluency/96/gmail-new.png" width="56" height="56" alt="Email" />
   </a>
 </p>
-#What I work with
+
+## What I work with
 
 **Languages**
 
