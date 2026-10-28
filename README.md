@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=260&section=header&text=Adarsh%20Kumar&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cloud%20Learner&descSize=20&descAlignY=58" width="100%" alt="Adarsh Kumar - MERN Stack Developer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:36BCF7&height=260&section=header&text=Adarsh%20Kumar&fontSize=62&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=MERN%20Stack%20Developer%20%7C%20AI%2FML%20Enthusiast%20%7C%20Cloud%20Learner&descSize=20&descAlignY=58" width="100%" alt="Hi,I'm Adarsh 👋 - MERN Stack Developer" />
 </p>
 
 <p align="center">
